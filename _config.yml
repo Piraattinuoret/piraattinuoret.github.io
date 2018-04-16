@@ -1,0 +1,11 @@
+# Custom settings
+timezone: Europe/Helsinki
+encoding: utf-8
+plugins:
+    - jekyll-feed
+    - jekyll-mentions
+    - jekyll-redirect-from
+    - jekyll-sitemap
+sitemap:
+    file: "/sitemap.xml"
+include: [robots.txt]
