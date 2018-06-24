@@ -1,5 +1,5 @@
 ---
-redirect_to: xmpp:#piraattinuoret%roubaix-fr.pirateirc.net@irc.jabberfr.org?join
+redirect_to: xmpp:#piraattinuoret%fi.pirateirc.net@irc.jabberfr.org
 permalink: /xmpp.html
 sitemap: false
 ---
