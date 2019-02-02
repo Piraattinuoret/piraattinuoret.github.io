@@ -1,2 +1,4 @@
 User-agent: *
+Allow: /index
 Disallow: /
+Sitemap: https://im.piraattinuoret.fi/sitemap.xml
