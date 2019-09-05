@@ -1,5 +1,5 @@
 ---
-redirect_to: https://t.me/joinchat/EahHW0Kiv5aY2qgXFwEi_g
+redirect_to: https://t.me/Piraattinuoret
 permalink: /telegram.html
 sitemap: false
 ---
