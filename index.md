@@ -19,4 +19,5 @@ Tarjolla on myös linkkejä muihin käytössä oleviin työkaluihimme:
 Huomionarvoisia ovat myös:
 
 * [Sateenkaaripiraattien Telegram](/sateenkaaripiraatit.html)
-* [Kokouspöytäkirjojen GitHub-arkisto](/poytakirjat.html)
+* [Kokouspöytäkirjojen GitHub-arkisto](/poytakirjat.html) ja [Gitea-peili](https://git.piraattipuolue.fi/Piraattinuoret/Poytakirjat)
+* [Piraattipuolueen Discord](/piraattipuoluediscord.html)
