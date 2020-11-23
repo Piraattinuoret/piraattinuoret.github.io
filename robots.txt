@@ -1,6 +1,3 @@
 User-agent: *
-Allow: /index
-Index: /index
-Disallow: /
-Noindex: /
+Allow: /
 Sitemap: https://im.piraattinuoret.fi/sitemap.xml
