@@ -1,5 +1,5 @@
 ---
-redirect_to: https://riot.im/app/#/group/+piraattinuoret:matrix.org
+redirect_to: matrix:r/piraattinuoret:pikaviestin.fi
 permalink: /matrix.html
 sitemap: false
 ---

@@ -7,6 +7,7 @@ Tältä sivustolta löydät liittymislinkit [Piraattinuorten](https://pinu.fi/)
 käytössä oleviin pikaviestimiin.
 
 * [Discord](/discord.html)
+* [Matrix](/matrix.html)
 * [Perinteinen IRC](/irc.html) ja [webirc](/webirc.html)
 * [Telegram](/telegram.html)
 
