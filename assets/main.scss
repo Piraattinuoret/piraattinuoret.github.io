@@ -1,0 +1,34 @@
+---
+#
+---
+
+@import "{{ site.theme }}";
+
+// Declares support for light and dark themes as high as possible
+:root {
+  color-scheme: light dark !important;
+}
+
+// Reverts all colors to browser default so light/dark modes are supported
+// without extra work and we get free accessibility
+* {
+  color: revert !important;
+  text-color: revert !important;
+  background-color: revert !important;
+}
+
+// Fix transparent mobile navbar
+@media (prefers-color-scheme: light) {
+  .site-nav {
+    color-scheme: only light !important;
+    color: #000000 !important;
+    background-color: #ffffff !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .site-nav {
+    color-scheme: only dark !important;
+    color: #ffffff !important;
+    background-color: #1c1b22 !important;
+  }
+}

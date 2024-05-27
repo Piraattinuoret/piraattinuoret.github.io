@@ -1,2 +1,7 @@
+.*
+!.editorconfig
+!.gitattributes
+!.gitignore
+
 _site/
 Gemfile.lock
