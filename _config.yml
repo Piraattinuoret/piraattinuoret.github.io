@@ -2,10 +2,10 @@ theme: minima
 timezone: Europe/Helsinki
 encoding: utf-8
 plugins:
-    - jekyll-feed
-    - jekyll-mentions
-    - jekyll-redirect-from
-    - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
 sitemap:
-    file: "/sitemap.xml"
+  file: "/sitemap.xml"
 include: [favicon.ico, robots.txt]

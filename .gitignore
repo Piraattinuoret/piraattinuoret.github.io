@@ -3,5 +3,7 @@
 !.gitattributes
 !.gitignore
 !.pre-commit-config.yaml
+!.prettierrc
+!.prettierignore
 _site/
 Gemfile.lock
