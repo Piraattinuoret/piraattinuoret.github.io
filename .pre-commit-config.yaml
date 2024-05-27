@@ -1,0 +1,32 @@
+ci:
+  autoupdate_schedule: quarterly
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+        args: ["--markdown-linebreak-ext", "md,markdown"]
+        exclude_types: [svg, tsv]
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-json
+      - id: fix-byte-order-marker
+      - id: check-merge-conflict
+      - id: mixed-line-ending
+        args: [--fix=auto]
+      - id: pretty-format-json
+        args: [--autofix, --no-ensure-ascii]
+
+  - repo: https://github.com/thlorenz/doctoc
+    rev: v2.2.0
+    hooks:
+      - id: doctoc
+        args: [--update-only, --notitle]
+
+  - repo: https://github.com/rbubley/mirrors-prettier
+    rev: "v3.2.5"
+    hooks:
+      - id: prettier
