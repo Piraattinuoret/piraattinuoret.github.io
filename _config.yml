@@ -1,4 +1,7 @@
 theme: minima
+title: Piraattinuorten linkkilista
+description: Täältä löytyy Piraattinuorten oleellisiahkoja linkkejä.
+lang: fi
 timezone: Europe/Helsinki
 encoding: utf-8
 plugins:

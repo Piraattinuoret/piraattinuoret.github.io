@@ -17,6 +17,8 @@ $base-font-family: "Liberation Sans", "Arimo", "Arial", sans-serif;
   color: revert !important;
   text-color: revert !important;
   background-color: revert !important;
+  overflow-wrap: break-word !important;
+  hyphens: auto !important;
 }
 
 // Fix transparent mobile navbar

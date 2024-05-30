@@ -2,6 +2,7 @@
 permalink: /index.html
 redirect_from: /404.html
 layout: home
+lang: fi
 ---
 
 Tältä sivustolta löydät liittymislinkit [Piraattinuorten](https://pinu.fi/)
