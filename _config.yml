@@ -2,6 +2,7 @@ theme: minima
 title: Piraattinuorten linkkilista
 description: Täältä löytyy Piraattinuorten oleellisiahkoja linkkejä.
 lang: fi
+icon: https://pinu.fi/wp-content/uploads/2019/01/cropped-pinu_purje_backward_orange_favicon-192x192.png
 timezone: Europe/Helsinki
 encoding: utf-8
 plugins:
