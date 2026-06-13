@@ -21,7 +21,7 @@ repos:
         args: [--autofix, --no-ensure-ascii]
 
   - repo: https://github.com/thlorenz/doctoc
-    rev: v2.2.0
+    rev: v2.5.0
     hooks:
       - id: doctoc
         args: [--update-only, --notitle]
